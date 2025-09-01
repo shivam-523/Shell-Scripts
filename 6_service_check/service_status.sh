@@ -1,5 +1,5 @@
 #Create a script called service_check.sh that checks the status of a service provided by command line argument 
-#Also provides options to restart failed service
+#Also provide options to restart failed service
 
 #!/bin/bash
 
