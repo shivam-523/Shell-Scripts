@@ -1,1 +1,1 @@
-This repository will contain Shell Scripting questions along with answers
+A collection of Bash Scripts along with detailed explanation
